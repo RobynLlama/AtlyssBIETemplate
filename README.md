@@ -1,6 +1,6 @@
-# BepInExModTemplate for Obenseuer
+# BepInExModTemplate for Atlyss
 
-This repo is a series of files designed to get you modding Obenseuer as quickly and easily as possible!
+This repo is a series of files designed to get you modding Atlyss as quickly and easily as possible!
 
 - [Installing (Nuget)](#installing-nuget)
 - [Installing (Manually)](#installing-manually)
@@ -13,7 +13,7 @@ This repo is a series of files designed to get you modding Obenseuer as quickly 
 Run the following command
 
 ```bash
-dotnet new install dev.mamallama.OSBepInExModTemplate
+dotnet new install dev.mamallama.atlyss.bepin
 ```
 
 ## Installing (Manually)
@@ -29,7 +29,7 @@ Great! The template is now installed locally as OSBepinPlugin
 
 - Create a new folder wherever you'd like your new project to be
 - Give it a nice name, this folder name will be your whole project's name
-- Open a Terminal/Powershell/Bash window inside this folder and use the following command to instance a new plugin `dotnet new OSBepinPlugin`
+- Open a Terminal/Powershell/Bash window inside this folder and use the following command to instance a new plugin `dotnet new AtlyssBepinPlugin`
 
 You now have a (mostly) working setup. For automated build copying you'll need to follow some extra steps!
 
