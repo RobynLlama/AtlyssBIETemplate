@@ -21,6 +21,7 @@
       PrivateAssets="all" />
 
     <Reference Include="$(DependsDir)/Assembly-CSharp.dll" Publicize="true" />
+    <Reference Include="$(DependsDir)/Mirror.dll" />
   </ItemGroup>
 
   <ItemGroup>
